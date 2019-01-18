@@ -3,7 +3,11 @@ layout: post
 title: You're up and running!
 ---
 
-#Hello World 
+# Hello World 
+
+Welcome at the very fist post of the bloge created with 
+[jekyll-now](https://github.com/barryclark/jekyll-now)
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
